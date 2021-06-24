@@ -19,8 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jialiang's Blog
+name: "家良 曲"
 email: qjl330@hotmail.com
-description: “This is a personal blog owned and maintained by Jialiang Qu | 曲家良个人博客”
+description: This is a personal blog owned and maintained by Jialiang Qu | 曲家良个人博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,8 +30,8 @@ github_username:  jialiangqu
 # Build settings
 theme: minima
 # theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
