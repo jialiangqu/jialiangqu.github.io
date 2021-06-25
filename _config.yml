@@ -27,6 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jialiangqu
 
+author:
+  name: "Jialiang Qu"
+  avatar: "assets/images/me.JPG"
+  bio: "不管是腥还是臭，到我嘴里是块肉"
+  location: "Hangzhou, China"
+
 # Build settings
 # theme: minima
 # theme: minimal-mistakes-jekyll
